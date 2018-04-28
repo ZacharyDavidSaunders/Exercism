@@ -5,14 +5,8 @@
 
 *.properties
 
-Java/hello-world/build/reports/tests/test/classes/
-
 *.idx
 
 *.xml
 
-Java/hello-world/build/reports/tests/test/packages/
-
-Java/hello-world/build/reports/tests/test/css/
-
-Java/hello-world/build/reports/tests/test/
+**/build/
