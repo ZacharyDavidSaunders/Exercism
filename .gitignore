@@ -10,3 +10,4 @@
 *.xml
 
 **/build/
+Java/armstrong-numbers/\.gradle/
