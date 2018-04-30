@@ -10,6 +10,7 @@
 *.xml
 
 **/build/
-Java/armstrong-numbers/\.gradle/
 
-Java/rna-transcription/src/\.idea/
+.gradle/
+
+.idea/
