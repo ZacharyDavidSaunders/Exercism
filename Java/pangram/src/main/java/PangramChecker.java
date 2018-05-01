@@ -16,7 +16,7 @@ public class PangramChecker {
 				charactersHashMap.replace(currentChar, true);
 			}
 		}
-		
+
 		return !(charactersHashMap.containsValue(false));
 	}
 }
