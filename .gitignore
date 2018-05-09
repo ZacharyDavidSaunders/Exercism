@@ -9,8 +9,11 @@
 
 *.xml
 
+*.keep
+
 **/build/
 
 .gradle/
 
 .idea/
+
